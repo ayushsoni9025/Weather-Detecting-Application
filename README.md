@@ -92,7 +92,7 @@ download it from the python or any other terminal
 ```bash
   pip install requests
 ```
-
+step 2: Run main.py (main programme to be execute)
 *Note :-* make sure all the code files in same folder otherwise the programme throw error
 ## 🚀 About Me
 I'm a Electronic and communication student of Indore Institute of Science and Technology
