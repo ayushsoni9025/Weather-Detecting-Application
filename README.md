@@ -92,6 +92,11 @@ download it from the python or any other terminal
 ```bash
   pip install requests
 ```
+4 Dotenv\
+download it from the python or any other terminal
+```bash
+  pip install python-dotenv
+```
 step 2: Run main.py (main programme to be execute)
 *Note :-* make sure all the code files in same folder otherwise the programme throw error
 ## 🚀 About Me
